@@ -1,0 +1,11 @@
+
+bidders:
+  - name: dsp1
+    type: ortb
+    endpoint: https://example-dsp.com/openrtb
+    timeout: 120
+
+  - name: network1
+    type: vast
+    endpoint: https://ads.network.com/vast
+    timeout: 120
